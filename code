@@ -638,7 +638,7 @@ if (ref != "") {land(loc,target);}
             {block:Quote}
             <div class="quote">{Quote}</div>
             {block:Source}<center><div class="arrow1"><i class="fa fa-caret-down"></i></div>
-                <div class="asker">{Source}</div>{/block:Source}
+                <div class="asker">{Source}</div></center>{/block:Source}
             {/block:Quote}
             
             
